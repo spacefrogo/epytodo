@@ -8,3 +8,7 @@ building a “frontend” to your project as a bonus.
 Within this project, you’ll have to develop:
 1. your MySQL database.
 2. A web server using Node.js
+
+
+#### First Year Project - EPITECH.
+##### Trio project.
